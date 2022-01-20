@@ -22,7 +22,7 @@ while True:
         Made by loay Mohamed
         all copy rights reserved@ 2022/1/20
         The Source Code available at My Github:
-        => https://github.com/loay-mohamed-xv
+        => https://github.com/loay-mohamed-xv/PC-Part-Picker
         enjoy :)
         """)
     if event == 'Quit':
