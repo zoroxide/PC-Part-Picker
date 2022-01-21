@@ -26,4 +26,4 @@ while True:
         enjoy :)
         """)
     if event == 'Quit':
-        pass
+        break
