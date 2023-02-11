@@ -19,7 +19,7 @@ while True:
         g.popup('soon')
     if event == 'About':
         g.popup("""
-        all copy rights reserved@ 2022/1/20
+        2022/1/20
         The Source Code available at Github:
         => https://github.com/loay-mohamed-xv/PC-Part-Picker
         """)
